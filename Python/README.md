@@ -45,9 +45,9 @@ To launch:
 
 ### Working offline
 
-在某些情况下，例如教程会话，您可能无法访问Internet。这要求你：
+In some situations, such as a tutorial session, you may not have internet access. This requires that you:
 
-1. 事先下载所有数据 - 见上面。
+1. Download the data in advance - see above.
 
 # View Static Converted Pages
 
