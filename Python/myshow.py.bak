@@ -96,7 +96,6 @@ def myshow3d(img, xslices=[], yslices=[], zslices=[], title=None, margin=0.05, d
     img_slices = []
     d = 0
 
-	#将3个轴切片数量增加到相同
     if len(img_xslices):
         img_slices += img_xslices + [img_null]*(maxlen-len(img_xslices))
         d += 1
